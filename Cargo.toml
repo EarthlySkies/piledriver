@@ -3,12 +3,12 @@ name = "piledriver"
 version = "0.1.0"
 edition = "2021"
 rust-version = "1.57"
-description = "A fanmade remaster of the original Boktai trilogy"
+description = "A fanmade remaster of the original trilogy"
 documentation = "https://github.com/EarthlySkies/piledriver/wiki"
 readme = "README.md"
 repository = "https://github.com/EarthlySkies/piledriver"
 license = "Apache-2.0"
-keywords = ["unofficial", "boktai", "collection", "remaster", "fangame"]
+keywords = ["unofficial", "remaster", "stealth-action", "rpg", "fangame"]
 categories = ["games"]
 publish = false
 
