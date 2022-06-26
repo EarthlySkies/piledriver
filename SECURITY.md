@@ -11,6 +11,10 @@ Please note that the Piledriver project only supports the latest release with se
 All previous versions are obsoleted the moment a new release is published. We have no plans of doing
 backports at all.
 
+Please also note that possible vulnerabilities in the engine's code itself are outside of the scope of this policy,
+unless they are directly related to the patches applied by us. Such vulnerabilities should be reported to the
+engine's maintainers instead.
+
 ## Reporting a Vulnerability
 If You have found a security vulnerability in our repository, please do not open a new issue, as they are public.
 Instead, please contact the project's Technical Lead, [EarthlySkies](https://github.com/EarthlySkies), directly.
